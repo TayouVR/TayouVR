@@ -6,7 +6,7 @@ I am a learnt Java, C# and Web (HTML, CSS, JS) dev.
 
 Bits and pieces of other languages I can do too, like Python, PHP and SQL.
 
-I do 3D Modelling and Unity game dev and content creation in my free time.
+I do 3D Modelling, Unity game dev and content creation in my free time.
 
 Dipping my toes in C++ recently, see [🔭 Current Projects](https://github.com/TayouVR#-current-projects)
 
@@ -39,7 +39,6 @@ Languages:
   <img alt="CSS3" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img alt="C++" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
   <img alt="Python" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img alt="Android" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
   <img alt="PHP" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" />
 </p>
 
@@ -48,6 +47,7 @@ Toolkits & Environments:
   <img alt="Qt" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" />
   <img alt=".Net Framework" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" />
   <img alt=".Net Core" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="Android" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" />
 </p>
 
 Apps:
