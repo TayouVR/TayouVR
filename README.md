@@ -1,4 +1,4 @@
-# Tayou
+# Tayou ([Deutsche Version](https://github.com/TayouVR/TayouVR/blob/main/README_DE.md))
 
 Hi there 👋
 
