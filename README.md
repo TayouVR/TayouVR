@@ -12,7 +12,7 @@ Dipping my toes in C++ recently, see [🔭 Current Projects](https://github.com/
 
 ❤ VR
 
-## ✉ Looking For Job! Send me an Email if Interested ✉
+## [✉ Looking For Job! Send me an Email if Interested ✉](mailto:tayou@gmx.net)
 
 ## 🔭 Current Projects
 - [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)
