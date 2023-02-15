@@ -8,7 +8,7 @@ Bits and pieces of other languages I can do too, like Python, PHP and SQL.
 
 I do 3D Modelling, Unity game dev and content creation in my free time.
 
-Dipping my toes in C++ recently, see [🔭 Current Projects](https://github.com/TayouVR#-current-projects)
+Dipping my toes in C++ recently, see [🔭 Current Projects](#-current-projects)
 
 ❤ VR
 
