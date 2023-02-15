@@ -8,7 +8,7 @@ Andere Sprachen kann ich auch teilweise Programmieren, wie zum beispiel Python, 
 
 3D Modellierung und Unity Spieleentwicklung und Content creation für UGC plattformen wie VRChat mache ich ebenfalls in meiner Freizeit.
 
-Tauche meine Zehen in C++ in letzter zeit. siehe [🔭 Aktuelle Projekte](#-aktuelle-projekte)
+Tauche meine Zehen in C++ in letzter zeit, siehe [🔭 Aktuelle Projekte](#-aktuelle-projekte)
 
 ❤ VR
 
