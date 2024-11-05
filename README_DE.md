@@ -2,9 +2,7 @@
 
 Hallo! 👋
 
-Ich bin gelernter Java, C# und Web (HTML, CSS, JS) Entwickler.
-
-Andere Sprachen kann ich auch teilweise Programmieren, wie zum beispiel Python, PHP und SQL.
+Ich bin gelernter Java, .Net/C# und Web Entwickler.
 
 3D Modellierung und Unity Spieleentwicklung und Content creation für UGC plattformen wie VRChat mache ich ebenfalls in meiner Freizeit.
 
@@ -22,8 +20,7 @@ Tauche meine Zehen in C++ in letzter zeit, siehe [🔭 Aktuelle Projekte](#-aktu
 ## 📫 Kontakt
 - Matrix: @tayou:matrix.org
 - telegram: @TayouVR
-- Discord: Tayou#4951
-- E-Mail: tayou@gmx.net
+- E-Mail: contact-github@tayou.org
 
 ## 😄 Pronouns
 jegliche (er, sie, etc.)
