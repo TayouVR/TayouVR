@@ -10,8 +10,6 @@ Dipping my toes in C++ recently, see [🔭 Current Projects](#-current-projects)
 
 ❤ VR
 
-## [✉ Looking For Job! Send me an Email if Interested ✉](mailto:tayou@gmx.net)
-
 ## 🔭 Current Projects
 - [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)
 - Unity editor Scripts -> https://github.com/TayouVR?tab=repositories&type=source
