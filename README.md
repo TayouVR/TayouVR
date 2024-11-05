@@ -2,9 +2,7 @@
 
 Hi there 👋
 
-I am a learnt Java, C# and Web (HTML, CSS, JS) dev.
-
-Bits and pieces of other languages I can do too, like Python, PHP and SQL.
+I am a Java, .Net/C# and Web dev.
 
 I do 3D Modelling, Unity game dev and content creation in my free time.
 
@@ -22,8 +20,7 @@ Dipping my toes in C++ recently, see [🔭 Current Projects](#-current-projects)
 ## 📫 Contact
 - Matrix: @tayou:matrix.org
 - telegram: @TayouVR
-- Discord: Tayou#4951
-- E-Mail: tayou@gmx.net
+- E-Mail: contact-github@tayou.org
 
 ## 😄 Pronouns
 any (they/them > he/him = she/her)
