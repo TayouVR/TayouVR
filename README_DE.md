@@ -6,22 +6,19 @@ Ich bin gelernter Java, .Net/C# und Web Entwickler.
 
 3D Modellierung und Unity Spieleentwicklung und Content creation für UGC plattformen wie VRChat mache ich ebenfalls in meiner Freizeit.
 
-Tauche meine Zehen in C++ in letzter zeit, siehe [🔭 Aktuelle Projekte](#-aktuelle-projekte)
+Tauche meine Zehen in C++ in letzter zeit, siehe [🔭 Aktuelle Projekte](#aktuelle-projekte)
 
 ❤ VR
 
-## 🔭 Aktuelle Projekte
+## Aktuelle Projekte
 - [Prism Launcher](https://github.com/PrismLauncher/PrismLauncher)
 - Unity editor Scripte -> https://github.com/TayouVR?tab=repositories&type=source
 - 3D Modellierung (zum Großteil nicht open 'source')
 
-## 📫 Kontakt
+## Kontakt
 - Matrix: @tayou:matrix.org
 - telegram: @TayouVR
 - E-Mail: contact-github@tayou.org
-
-## 😄 Pronouns
-jegliche (er, sie, etc.)
 
 ## Skillset
 
@@ -52,10 +49,4 @@ Anwendungen:
   <img alt="Gimp" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" />
   <img alt="Inkscape" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" />
   <img alt="Jetbrains IDEs" width="48px" height="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jetbrains/jetbrains-original.svg" />
-</p>
-
----
-<p>
-  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=TayouVR&show_icons=true&include_all_commits=true&theme=dark" />
-  <img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TayouVR&layout=compact&langs_count=10&theme=dark" />
 </p>
